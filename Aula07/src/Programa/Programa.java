@@ -21,7 +21,7 @@ public class Programa {
         System.out.println("Matricula: " + aluno.getMatricula());
         System.out.println("\n//////////////////////////\n");
         System.out.println("Nome do professor: " + professor.getNome());
-        System.out.println("cpf do professor: " + professor.getCpf());
+        System.out.println("Cpf do professor: " + professor.getCpf());
         System.out.println("Matéria do professor: " + professor.getMateria());
         System.out.println("Horario de bater ponto: " + professor.getBaterHora());
 
