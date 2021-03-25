@@ -1,6 +1,6 @@
 package Classes;
 
-public class Funcionario extends Pessoa {
+public abstract class Funcionario extends Pessoa {
     private String baterHora;
 
     public Funcionario(String nome, String cpf) {
