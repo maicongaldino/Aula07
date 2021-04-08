@@ -6,11 +6,9 @@ public abstract class Funcionario extends Pessoa {
     public Funcionario(String nome, String cpf) {
         super(nome, cpf);
     }
-
     public String getBaterHora() {
         return baterHora;
     }
-
     public void setBaterHora(String baterHora) {
         this.baterHora = baterHora;
     }
